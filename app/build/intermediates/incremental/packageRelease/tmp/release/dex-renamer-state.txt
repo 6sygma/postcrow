@@ -1,0 +1,4 @@
+#Fri Oct 23 16:44:57 IST 2020
+base.0=G\:\\AvinashWork\\LocalLearn\\open-project\\sngine-2.9\\Apps\\Andriod\\Sngine\\app\\build\\intermediates\\dex\\release\\mergeDexRelease\\out
+path.0=classes.dex
+renamed.0=classes.dex

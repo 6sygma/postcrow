@@ -1,0 +1,11 @@
+#Internal package file, do not edit.
+#Fri Oct 23 16:44:57 IST 2020
+1.base=G\:\\AvinashWork\\LocalLearn\\open-project\\sngine-2.9\\Apps\\Andriod\\Sngine\\app\\build\\intermediates\\merged_assets\\release\\out
+0.baseType=DIRECTORY
+1.baseType=DIRECTORY
+count=2
+1.set=ASSET
+0.path=classes.dex
+0.set=DEX
+0.base=G\:\\AvinashWork\\LocalLearn\\open-project\\sngine-2.9\\Apps\\Andriod\\Sngine\\app\\build\\intermediates\\dex\\release\\mergeDexRelease\\out
+1.path=error.html

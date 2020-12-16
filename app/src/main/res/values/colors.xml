@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#00BCD4</color>
+    <color name="colorPrimaryDark">#03A9F4</color>
+    <color name="colorAccent">#2196F3</color>
+    <color name="darkBlue">#3367d6</color>
+    <color name="midBlue">#3367d6</color>
+    <color name="lightBlue">#3367d6</color>
+	<color name="white">#ffffff</color>
+    <color name="bol">#5BCDDC</color>
+    <color name="bol_1">#fbb140</color>
+</resources>

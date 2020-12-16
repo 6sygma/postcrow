@@ -1,0 +1,371 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Projects\6Sygma\MobileApp\postcrow\app\src\main\AndroidManifest.xml:2:1-80:12
+INJECTED from C:\Projects\6Sygma\MobileApp\postcrow\app\src\main\AndroidManifest.xml:2:1-80:12
+INJECTED from C:\Projects\6Sygma\MobileApp\postcrow\app\src\main\AndroidManifest.xml:2:1-80:12
+INJECTED from C:\Projects\6Sygma\MobileApp\postcrow\app\src\main\AndroidManifest.xml:2:1-80:12
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] C:\Users\mepan\.gradle\caches\transforms-2\files-2.1\bdee8bb794cf473fdce7ce1a1e7a0769\AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\mepan\.gradle\caches\transforms-2\files-2.1\fcb860ba4c80094062411096f8948e71\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.appcompat:appcompat:1.2.0] C:\Users\mepan\.gradle\caches\transforms-2\files-2.1\516dc1e914e2ef867eead7ccdc4ba295\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-auth:17.0.0] C:\Users\mepan\.gradle\caches\transforms-2\files-2.1\f123484d95bb3510edde73dcfd059d59\AndroidManifest.xml:17:1-39:12
+MERGED from [com.google.android.gms:play-services-location:17.0.0] C:\Users\mepan\.gradle\caches\transforms-2\files-2.1\99c63603523e6be5bc36e667caa12a55\AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.media:media:1.0.0] C:\Users\mepan\.gradle\caches\transforms-2\files-2.1\cc08045419c75b8facc21062c64eaaf8\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\mepan\.gradle\caches\transforms-2\files-2.1\ba0185e344d2a587fbf10916f3c75d17\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\mepan\.gradle\caches\transforms-2\files-2.1\17ab50681d8e46b5abb9ce9cdf596e5b\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.gms:play-services-auth-api-phone:17.0.0] C:\Users\mepan\.gradle\caches\transforms-2\files-2.1\ff5676a202d78dbedebc4767555add6f\AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.android.gms:play-services-auth-base:17.0.0] C:\Users\mepan\.gradle\caches\transforms-2\files-2.1\7aff4d99a268f9c9b1250be6c52f5392\AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\mepan\.gradle\caches\transforms-2\files-2.1\0fea544ad50a6632bb9413d1b52f1a2d\AndroidManifest.xml:17:1-29:12
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] C:\Users\mepan\.gradle\caches\transforms-2\files-2.1\6169259ff99970e10473f8a371ada942\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-places-placereport:17.0.0] C:\Users\mepan\.gradle\caches\transforms-2\files-2.1\bfed3dcc9a2e110e4b4ef2085d473764\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\mepan\.gradle\caches\transforms-2\files-2.1\b673817da9a5ddb64e81bb6ae5c234fb\AndroidManifest.xml:17:1-28:12
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\mepan\.gradle\caches\transforms-2\files-2.1\9c73f7f196a5e4f8027663e460fced13\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\mepan\.gradle\caches\transforms-2\files-2.1\9631d438847bc8a20246a7b42c7f20c4\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.appcompat:appcompat-resources:1.2.0] C:\Users\mepan\.gradle\caches\transforms-2\files-2.1\1e599acd09a1ea81cf0a91027b3d3ada\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\mepan\.gradle\caches\transforms-2\files-2.1\a4993f85681c5be42fd568edcc42ae65\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\mepan\.gradle\caches\transforms-2\files-2.1\7f1e1b9c41f698f4699ec5ca5b009794\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\mepan\.gradle\caches\transforms-2\files-2.1\9ae8abe986934915465fc53a951bec19\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\mepan\.gradle\caches\transforms-2\files-2.1\f27d5706210805049dcaa3c9e57f20df\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\mepan\.gradle\caches\transforms-2\files-2.1\5ff336b8addfa2e86805cbb072f47606\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\mepan\.gradle\caches\transforms-2\files-2.1\910f91973b6c5123bef004d858c28f9a\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\mepan\.gradle\caches\transforms-2\files-2.1\76deed4fd3c5594816816c001711c27b\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\mepan\.gradle\caches\transforms-2\files-2.1\6abe2468f32c701468921183d134ffa0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\mepan\.gradle\caches\transforms-2\files-2.1\7871527aaed91cfd7cb024a9da46a319\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\mepan\.gradle\caches\transforms-2\files-2.1\8c62ce189aea3f009cb8ee7b83fefa84\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core:1.3.1] C:\Users\mepan\.gradle\caches\transforms-2\files-2.1\e700237f880e4b687d17f4214f63d50b\AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\mepan\.gradle\caches\transforms-2\files-2.1\7aee160e56b5870345b8ab18d2629202\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\mepan\.gradle\caches\transforms-2\files-2.1\24bb41dcb6a7eb88ce29707693bec680\AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\mepan\.gradle\caches\transforms-2\files-2.1\0ebad56f3ef94e89cd5d8602cbf9141a\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\mepan\.gradle\caches\transforms-2\files-2.1\d76c02c01004fe9d41a7ef196a786064\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] C:\Users\mepan\.gradle\caches\transforms-2\files-2.1\732959d0dfe40127ca409d8f21e1956b\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\mepan\.gradle\caches\transforms-2\files-2.1\7876bb0917a42f32b2c8b4d27555408d\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\mepan\.gradle\caches\transforms-2\files-2.1\66faaa4e544564a16c690d0a3815d5bc\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\mepan\.gradle\caches\transforms-2\files-2.1\d7dd31dac79db4f8efe6c69f2943191c\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\mepan\.gradle\caches\transforms-2\files-2.1\4b8c5f18a3990b460677c76549136a91\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] C:\Users\mepan\.gradle\caches\transforms-2\files-2.1\3db000003fccdfe872ac82d5d26bd4e4\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\mepan\.gradle\caches\transforms-2\files-2.1\c6d41ed429e119f3d0bbe07280c379ff\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\mepan\.gradle\caches\transforms-2\files-2.1\cc311eb7e1430cca6fbc7ed21f18be8a\AndroidManifest.xml:17:1-24:12
+INJECTED from C:\Projects\6Sygma\MobileApp\postcrow\app\src\main\AndroidManifest.xml:2:1-80:12
+INJECTED from C:\Projects\6Sygma\MobileApp\postcrow\app\src\main\AndroidManifest.xml:2:1-80:12
+INJECTED from C:\Projects\6Sygma\MobileApp\postcrow\app\src\main\AndroidManifest.xml:2:1-80:12
+	package
+		ADDED from C:\Projects\6Sygma\MobileApp\postcrow\app\src\main\AndroidManifest.xml:4:5-35
+		INJECTED from C:\Projects\6Sygma\MobileApp\postcrow\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Projects\6Sygma\MobileApp\postcrow\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Projects\6Sygma\MobileApp\postcrow\app\src\main\AndroidManifest.xml
+		ADDED from C:\Projects\6Sygma\MobileApp\postcrow\app\src\main\AndroidManifest.xml:2:1-80:12
+		INJECTED from C:\Projects\6Sygma\MobileApp\postcrow\app\src\main\AndroidManifest.xml
+	xmlns:tools
+		ADDED from C:\Projects\6Sygma\MobileApp\postcrow\app\src\main\AndroidManifest.xml:3:5-51
+	android:versionCode
+		INJECTED from C:\Projects\6Sygma\MobileApp\postcrow\app\src\main\AndroidManifest.xml
+		ADDED from C:\Projects\6Sygma\MobileApp\postcrow\app\src\main\AndroidManifest.xml:2:1-80:12
+		INJECTED from C:\Projects\6Sygma\MobileApp\postcrow\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Projects\6Sygma\MobileApp\postcrow\app\src\main\AndroidManifest.xml:2:11-69
+	android:installLocation
+		ADDED from C:\Projects\6Sygma\MobileApp\postcrow\app\src\main\AndroidManifest.xml:5:5-35
+supports-screens
+ADDED from C:\Projects\6Sygma\MobileApp\postcrow\app\src\main\AndroidManifest.xml:7:5-13:40
+	android:largeScreens
+		ADDED from C:\Projects\6Sygma\MobileApp\postcrow\app\src\main\AndroidManifest.xml:9:9-36
+	android:smallScreens
+		ADDED from C:\Projects\6Sygma\MobileApp\postcrow\app\src\main\AndroidManifest.xml:12:9-36
+	android:normalScreens
+		ADDED from C:\Projects\6Sygma\MobileApp\postcrow\app\src\main\AndroidManifest.xml:10:9-37
+	android:xlargeScreens
+		ADDED from C:\Projects\6Sygma\MobileApp\postcrow\app\src\main\AndroidManifest.xml:13:9-37
+	android:resizeable
+		ADDED from C:\Projects\6Sygma\MobileApp\postcrow\app\src\main\AndroidManifest.xml:11:9-34
+	android:anyDensity
+		ADDED from C:\Projects\6Sygma\MobileApp\postcrow\app\src\main\AndroidManifest.xml:8:9-34
+uses-permission#android.permission.BLUETOOTH
+ADDED from C:\Projects\6Sygma\MobileApp\postcrow\app\src\main\AndroidManifest.xml:15:5-68
+	android:name
+		ADDED from C:\Projects\6Sygma\MobileApp\postcrow\app\src\main\AndroidManifest.xml:15:22-65
+uses-permission#android.permission.INTERNET
+ADDED from C:\Projects\6Sygma\MobileApp\postcrow\app\src\main\AndroidManifest.xml:16:5-67
+	android:name
+		ADDED from C:\Projects\6Sygma\MobileApp\postcrow\app\src\main\AndroidManifest.xml:16:22-64
+uses-permission#android.permission.BLUETOOTH_ADMIN
+ADDED from C:\Projects\6Sygma\MobileApp\postcrow\app\src\main\AndroidManifest.xml:17:5-74
+	android:name
+		ADDED from C:\Projects\6Sygma\MobileApp\postcrow\app\src\main\AndroidManifest.xml:17:22-71
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from C:\Projects\6Sygma\MobileApp\postcrow\app\src\main\AndroidManifest.xml:18:5-79
+	android:name
+		ADDED from C:\Projects\6Sygma\MobileApp\postcrow\app\src\main\AndroidManifest.xml:18:22-76
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from C:\Projects\6Sygma\MobileApp\postcrow\app\src\main\AndroidManifest.xml:19:5-76
+	android:name
+		ADDED from C:\Projects\6Sygma\MobileApp\postcrow\app\src\main\AndroidManifest.xml:19:22-73
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from C:\Projects\6Sygma\MobileApp\postcrow\app\src\main\AndroidManifest.xml:20:5-22:48
+	tools:remove
+		ADDED from C:\Projects\6Sygma\MobileApp\postcrow\app\src\main\AndroidManifest.xml:22:9-45
+	android:name
+		ADDED from C:\Projects\6Sygma\MobileApp\postcrow\app\src\main\AndroidManifest.xml:21:9-65
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from C:\Projects\6Sygma\MobileApp\postcrow\app\src\main\AndroidManifest.xml:23:5-80
+	android:name
+		ADDED from C:\Projects\6Sygma\MobileApp\postcrow\app\src\main\AndroidManifest.xml:23:22-77
+uses-permission#android.permission.CAMERA
+ADDED from C:\Projects\6Sygma\MobileApp\postcrow\app\src\main\AndroidManifest.xml:24:5-65
+	android:name
+		ADDED from C:\Projects\6Sygma\MobileApp\postcrow\app\src\main\AndroidManifest.xml:24:22-62
+uses-permission#android.permission.RECORD_AUDIO
+ADDED from C:\Projects\6Sygma\MobileApp\postcrow\app\src\main\AndroidManifest.xml:25:5-71
+	android:name
+		ADDED from C:\Projects\6Sygma\MobileApp\postcrow\app\src\main\AndroidManifest.xml:25:22-68
+uses-permission#android.permission.MODIFY_AUDIO_SETTINGS
+ADDED from C:\Projects\6Sygma\MobileApp\postcrow\app\src\main\AndroidManifest.xml:26:5-80
+	android:name
+		ADDED from C:\Projects\6Sygma\MobileApp\postcrow\app\src\main\AndroidManifest.xml:26:22-77
+uses-feature#android.hardware.camera
+ADDED from C:\Projects\6Sygma\MobileApp\postcrow\app\src\main\AndroidManifest.xml:28:5-60
+	android:name
+		ADDED from C:\Projects\6Sygma\MobileApp\postcrow\app\src\main\AndroidManifest.xml:28:19-57
+uses-feature#android.hardware.camera.autofocus
+ADDED from C:\Projects\6Sygma\MobileApp\postcrow\app\src\main\AndroidManifest.xml:29:5-70
+	android:name
+		ADDED from C:\Projects\6Sygma\MobileApp\postcrow\app\src\main\AndroidManifest.xml:29:19-67
+uses-feature#android.hardware.microphone
+ADDED from C:\Projects\6Sygma\MobileApp\postcrow\app\src\main\AndroidManifest.xml:30:5-64
+	android:name
+		ADDED from C:\Projects\6Sygma\MobileApp\postcrow\app\src\main\AndroidManifest.xml:30:19-61
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from C:\Projects\6Sygma\MobileApp\postcrow\app\src\main\AndroidManifest.xml:32:5-79
+	android:name
+		ADDED from C:\Projects\6Sygma\MobileApp\postcrow\app\src\main\AndroidManifest.xml:32:22-76
+uses-permission#android.permission.VIBRATE
+ADDED from C:\Projects\6Sygma\MobileApp\postcrow\app\src\main\AndroidManifest.xml:33:5-66
+	android:name
+		ADDED from C:\Projects\6Sygma\MobileApp\postcrow\app\src\main\AndroidManifest.xml:33:22-63
+uses-feature#android.hardware.location.gps
+ADDED from C:\Projects\6Sygma\MobileApp\postcrow\app\src\main\AndroidManifest.xml:34:5-66
+	android:name
+		ADDED from C:\Projects\6Sygma\MobileApp\postcrow\app\src\main\AndroidManifest.xml:34:19-63
+uses-feature#android.hardware.touchscreen
+ADDED from C:\Projects\6Sygma\MobileApp\postcrow\app\src\main\AndroidManifest.xml:35:5-37:36
+	android:required
+		ADDED from C:\Projects\6Sygma\MobileApp\postcrow\app\src\main\AndroidManifest.xml:37:9-33
+	android:name
+		ADDED from C:\Projects\6Sygma\MobileApp\postcrow\app\src\main\AndroidManifest.xml:36:9-52
+application
+ADDED from C:\Projects\6Sygma\MobileApp\postcrow\app\src\main\AndroidManifest.xml:39:5-78:19
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] C:\Users\mepan\.gradle\caches\transforms-2\files-2.1\bdee8bb794cf473fdce7ce1a1e7a0769\AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] C:\Users\mepan\.gradle\caches\transforms-2\files-2.1\bdee8bb794cf473fdce7ce1a1e7a0769\AndroidManifest.xml:9:5-20
+MERGED from [com.google.android.gms:play-services-auth:17.0.0] C:\Users\mepan\.gradle\caches\transforms-2\files-2.1\f123484d95bb3510edde73dcfd059d59\AndroidManifest.xml:22:5-37:19
+MERGED from [com.google.android.gms:play-services-auth:17.0.0] C:\Users\mepan\.gradle\caches\transforms-2\files-2.1\f123484d95bb3510edde73dcfd059d59\AndroidManifest.xml:22:5-37:19
+MERGED from [com.google.android.gms:play-services-location:17.0.0] C:\Users\mepan\.gradle\caches\transforms-2\files-2.1\99c63603523e6be5bc36e667caa12a55\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-location:17.0.0] C:\Users\mepan\.gradle\caches\transforms-2\files-2.1\99c63603523e6be5bc36e667caa12a55\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\mepan\.gradle\caches\transforms-2\files-2.1\0fea544ad50a6632bb9413d1b52f1a2d\AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\mepan\.gradle\caches\transforms-2\files-2.1\0fea544ad50a6632bb9413d1b52f1a2d\AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] C:\Users\mepan\.gradle\caches\transforms-2\files-2.1\6169259ff99970e10473f8a371ada942\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] C:\Users\mepan\.gradle\caches\transforms-2\files-2.1\6169259ff99970e10473f8a371ada942\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-places-placereport:17.0.0] C:\Users\mepan\.gradle\caches\transforms-2\files-2.1\bfed3dcc9a2e110e4b4ef2085d473764\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-places-placereport:17.0.0] C:\Users\mepan\.gradle\caches\transforms-2\files-2.1\bfed3dcc9a2e110e4b4ef2085d473764\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\mepan\.gradle\caches\transforms-2\files-2.1\b673817da9a5ddb64e81bb6ae5c234fb\AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\mepan\.gradle\caches\transforms-2\files-2.1\b673817da9a5ddb64e81bb6ae5c234fb\AndroidManifest.xml:22:5-26:19
+MERGED from [androidx.core:core:1.3.1] C:\Users\mepan\.gradle\caches\transforms-2\files-2.1\e700237f880e4b687d17f4214f63d50b\AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.3.1] C:\Users\mepan\.gradle\caches\transforms-2\files-2.1\e700237f880e4b687d17f4214f63d50b\AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\mepan\.gradle\caches\transforms-2\files-2.1\24bb41dcb6a7eb88ce29707693bec680\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\mepan\.gradle\caches\transforms-2\files-2.1\24bb41dcb6a7eb88ce29707693bec680\AndroidManifest.xml:24:5-25:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.3.1] C:\Users\mepan\.gradle\caches\transforms-2\files-2.1\e700237f880e4b687d17f4214f63d50b\AndroidManifest.xml:24:18-86
+	android:supportsRtl
+		ADDED from C:\Projects\6Sygma\MobileApp\postcrow\app\src\main\AndroidManifest.xml:45:9-35
+	android:label
+		ADDED from C:\Projects\6Sygma\MobileApp\postcrow\app\src\main\AndroidManifest.xml:43:9-41
+	android:hardwareAccelerated
+		ADDED from C:\Projects\6Sygma\MobileApp\postcrow\app\src\main\AndroidManifest.xml:41:9-43
+	tools:ignore
+		ADDED from C:\Projects\6Sygma\MobileApp\postcrow\app\src\main\AndroidManifest.xml:47:9-35
+	android:icon
+		ADDED from C:\Projects\6Sygma\MobileApp\postcrow\app\src\main\AndroidManifest.xml:42:9-43
+	android:allowBackup
+		ADDED from C:\Projects\6Sygma\MobileApp\postcrow\app\src\main\AndroidManifest.xml:40:9-35
+	android:theme
+		ADDED from C:\Projects\6Sygma\MobileApp\postcrow\app\src\main\AndroidManifest.xml:46:9-43
+	android:networkSecurityConfig
+		ADDED from C:\Projects\6Sygma\MobileApp\postcrow\app\src\main\AndroidManifest.xml:44:9-69
+activity#postcrow.app.webview.SigninActivity
+ADDED from C:\Projects\6Sygma\MobileApp\postcrow\app\src\main\AndroidManifest.xml:48:9-82
+	android:name
+		ADDED from C:\Projects\6Sygma\MobileApp\postcrow\app\src\main\AndroidManifest.xml:48:19-69
+activity#postcrow.app.webview.SplashScreen
+ADDED from C:\Projects\6Sygma\MobileApp\postcrow\app\src\main\AndroidManifest.xml:49:9-58:20
+	android:screenOrientation
+		ADDED from C:\Projects\6Sygma\MobileApp\postcrow\app\src\main\AndroidManifest.xml:52:13-49
+	android:label
+		ADDED from C:\Projects\6Sygma\MobileApp\postcrow\app\src\main\AndroidManifest.xml:51:13-45
+	android:name
+		ADDED from C:\Projects\6Sygma\MobileApp\postcrow\app\src\main\AndroidManifest.xml:50:13-61
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Projects\6Sygma\MobileApp\postcrow\app\src\main\AndroidManifest.xml:53:13-57:29
+action#android.intent.action.MAIN
+ADDED from C:\Projects\6Sygma\MobileApp\postcrow\app\src\main\AndroidManifest.xml:54:17-69
+	android:name
+		ADDED from C:\Projects\6Sygma\MobileApp\postcrow\app\src\main\AndroidManifest.xml:54:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Projects\6Sygma\MobileApp\postcrow\app\src\main\AndroidManifest.xml:56:17-77
+	android:name
+		ADDED from C:\Projects\6Sygma\MobileApp\postcrow\app\src\main\AndroidManifest.xml:56:27-74
+activity#postcrow.app.webview.MainActivity
+ADDED from C:\Projects\6Sygma\MobileApp\postcrow\app\src\main\AndroidManifest.xml:59:9-73:20
+	android:screenOrientation
+		ADDED from C:\Projects\6Sygma\MobileApp\postcrow\app\src\main\AndroidManifest.xml:61:13-49
+	android:name
+		ADDED from C:\Projects\6Sygma\MobileApp\postcrow\app\src\main\AndroidManifest.xml:60:13-61
+intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.BROWSABLE+category:name:android.intent.category.DEFAULT+data:host:www.biharoutlook.com+data:pathPrefix:/+data:scheme:https://
+ADDED from C:\Projects\6Sygma\MobileApp\postcrow\app\src\main\AndroidManifest.xml:62:13-72:29
+	android:label
+		ADDED from C:\Projects\6Sygma\MobileApp\postcrow\app\src\main\AndroidManifest.xml:62:28-60
+action#android.intent.action.VIEW
+ADDED from C:\Projects\6Sygma\MobileApp\postcrow\app\src\main\AndroidManifest.xml:63:17-69
+	android:name
+		ADDED from C:\Projects\6Sygma\MobileApp\postcrow\app\src\main\AndroidManifest.xml:63:25-66
+category#android.intent.category.DEFAULT
+ADDED from C:\Projects\6Sygma\MobileApp\postcrow\app\src\main\AndroidManifest.xml:65:17-76
+	android:name
+		ADDED from C:\Projects\6Sygma\MobileApp\postcrow\app\src\main\AndroidManifest.xml:65:27-73
+category#android.intent.category.BROWSABLE
+ADDED from C:\Projects\6Sygma\MobileApp\postcrow\app\src\main\AndroidManifest.xml:66:17-78
+	android:name
+		ADDED from C:\Projects\6Sygma\MobileApp\postcrow\app\src\main\AndroidManifest.xml:66:27-75
+data
+ADDED from C:\Projects\6Sygma\MobileApp\postcrow\app\src\main\AndroidManifest.xml:68:17-71:49
+	android:host
+		ADDED from C:\Projects\6Sygma\MobileApp\postcrow\app\src\main\AndroidManifest.xml:69:21-56
+	android:scheme
+		ADDED from C:\Projects\6Sygma\MobileApp\postcrow\app\src\main\AndroidManifest.xml:71:21-46
+	android:pathPrefix
+		ADDED from C:\Projects\6Sygma\MobileApp\postcrow\app\src\main\AndroidManifest.xml:70:21-43
+meta-data#com.google.android.gms.version
+ADDED from C:\Projects\6Sygma\MobileApp\postcrow\app\src\main\AndroidManifest.xml:75:9-77:69
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\mepan\.gradle\caches\transforms-2\files-2.1\b673817da9a5ddb64e81bb6ae5c234fb\AndroidManifest.xml:23:9-25:69
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\mepan\.gradle\caches\transforms-2\files-2.1\b673817da9a5ddb64e81bb6ae5c234fb\AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from C:\Projects\6Sygma\MobileApp\postcrow\app\src\main\AndroidManifest.xml:77:13-66
+	android:name
+		ADDED from C:\Projects\6Sygma\MobileApp\postcrow\app\src\main\AndroidManifest.xml:76:13-58
+uses-sdk
+INJECTED from C:\Projects\6Sygma\MobileApp\postcrow\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Projects\6Sygma\MobileApp\postcrow\app\src\main\AndroidManifest.xml
+INJECTED from C:\Projects\6Sygma\MobileApp\postcrow\app\src\main\AndroidManifest.xml
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] C:\Users\mepan\.gradle\caches\transforms-2\files-2.1\bdee8bb794cf473fdce7ce1a1e7a0769\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] C:\Users\mepan\.gradle\caches\transforms-2\files-2.1\bdee8bb794cf473fdce7ce1a1e7a0769\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\mepan\.gradle\caches\transforms-2\files-2.1\fcb860ba4c80094062411096f8948e71\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\mepan\.gradle\caches\transforms-2\files-2.1\fcb860ba4c80094062411096f8948e71\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.2.0] C:\Users\mepan\.gradle\caches\transforms-2\files-2.1\516dc1e914e2ef867eead7ccdc4ba295\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.2.0] C:\Users\mepan\.gradle\caches\transforms-2\files-2.1\516dc1e914e2ef867eead7ccdc4ba295\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.gms:play-services-auth:17.0.0] C:\Users\mepan\.gradle\caches\transforms-2\files-2.1\f123484d95bb3510edde73dcfd059d59\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-auth:17.0.0] C:\Users\mepan\.gradle\caches\transforms-2\files-2.1\f123484d95bb3510edde73dcfd059d59\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-location:17.0.0] C:\Users\mepan\.gradle\caches\transforms-2\files-2.1\99c63603523e6be5bc36e667caa12a55\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-location:17.0.0] C:\Users\mepan\.gradle\caches\transforms-2\files-2.1\99c63603523e6be5bc36e667caa12a55\AndroidManifest.xml:5:5-44
+MERGED from [androidx.media:media:1.0.0] C:\Users\mepan\.gradle\caches\transforms-2\files-2.1\cc08045419c75b8facc21062c64eaaf8\AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] C:\Users\mepan\.gradle\caches\transforms-2\files-2.1\cc08045419c75b8facc21062c64eaaf8\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\mepan\.gradle\caches\transforms-2\files-2.1\ba0185e344d2a587fbf10916f3c75d17\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\mepan\.gradle\caches\transforms-2\files-2.1\ba0185e344d2a587fbf10916f3c75d17\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\mepan\.gradle\caches\transforms-2\files-2.1\17ab50681d8e46b5abb9ce9cdf596e5b\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\mepan\.gradle\caches\transforms-2\files-2.1\17ab50681d8e46b5abb9ce9cdf596e5b\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-auth-api-phone:17.0.0] C:\Users\mepan\.gradle\caches\transforms-2\files-2.1\ff5676a202d78dbedebc4767555add6f\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-auth-api-phone:17.0.0] C:\Users\mepan\.gradle\caches\transforms-2\files-2.1\ff5676a202d78dbedebc4767555add6f\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-auth-base:17.0.0] C:\Users\mepan\.gradle\caches\transforms-2\files-2.1\7aff4d99a268f9c9b1250be6c52f5392\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-auth-base:17.0.0] C:\Users\mepan\.gradle\caches\transforms-2\files-2.1\7aff4d99a268f9c9b1250be6c52f5392\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\mepan\.gradle\caches\transforms-2\files-2.1\0fea544ad50a6632bb9413d1b52f1a2d\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\mepan\.gradle\caches\transforms-2\files-2.1\0fea544ad50a6632bb9413d1b52f1a2d\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] C:\Users\mepan\.gradle\caches\transforms-2\files-2.1\6169259ff99970e10473f8a371ada942\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] C:\Users\mepan\.gradle\caches\transforms-2\files-2.1\6169259ff99970e10473f8a371ada942\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-places-placereport:17.0.0] C:\Users\mepan\.gradle\caches\transforms-2\files-2.1\bfed3dcc9a2e110e4b4ef2085d473764\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-places-placereport:17.0.0] C:\Users\mepan\.gradle\caches\transforms-2\files-2.1\bfed3dcc9a2e110e4b4ef2085d473764\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\mepan\.gradle\caches\transforms-2\files-2.1\b673817da9a5ddb64e81bb6ae5c234fb\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\mepan\.gradle\caches\transforms-2\files-2.1\b673817da9a5ddb64e81bb6ae5c234fb\AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\mepan\.gradle\caches\transforms-2\files-2.1\9c73f7f196a5e4f8027663e460fced13\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\mepan\.gradle\caches\transforms-2\files-2.1\9c73f7f196a5e4f8027663e460fced13\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\mepan\.gradle\caches\transforms-2\files-2.1\9631d438847bc8a20246a7b42c7f20c4\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\mepan\.gradle\caches\transforms-2\files-2.1\9631d438847bc8a20246a7b42c7f20c4\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat-resources:1.2.0] C:\Users\mepan\.gradle\caches\transforms-2\files-2.1\1e599acd09a1ea81cf0a91027b3d3ada\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.2.0] C:\Users\mepan\.gradle\caches\transforms-2\files-2.1\1e599acd09a1ea81cf0a91027b3d3ada\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\mepan\.gradle\caches\transforms-2\files-2.1\a4993f85681c5be42fd568edcc42ae65\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\mepan\.gradle\caches\transforms-2\files-2.1\a4993f85681c5be42fd568edcc42ae65\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\mepan\.gradle\caches\transforms-2\files-2.1\7f1e1b9c41f698f4699ec5ca5b009794\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\mepan\.gradle\caches\transforms-2\files-2.1\7f1e1b9c41f698f4699ec5ca5b009794\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\mepan\.gradle\caches\transforms-2\files-2.1\9ae8abe986934915465fc53a951bec19\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\mepan\.gradle\caches\transforms-2\files-2.1\9ae8abe986934915465fc53a951bec19\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\mepan\.gradle\caches\transforms-2\files-2.1\f27d5706210805049dcaa3c9e57f20df\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\mepan\.gradle\caches\transforms-2\files-2.1\f27d5706210805049dcaa3c9e57f20df\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\mepan\.gradle\caches\transforms-2\files-2.1\5ff336b8addfa2e86805cbb072f47606\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\mepan\.gradle\caches\transforms-2\files-2.1\5ff336b8addfa2e86805cbb072f47606\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\mepan\.gradle\caches\transforms-2\files-2.1\910f91973b6c5123bef004d858c28f9a\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\mepan\.gradle\caches\transforms-2\files-2.1\910f91973b6c5123bef004d858c28f9a\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\mepan\.gradle\caches\transforms-2\files-2.1\76deed4fd3c5594816816c001711c27b\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\mepan\.gradle\caches\transforms-2\files-2.1\76deed4fd3c5594816816c001711c27b\AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\mepan\.gradle\caches\transforms-2\files-2.1\6abe2468f32c701468921183d134ffa0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\mepan\.gradle\caches\transforms-2\files-2.1\6abe2468f32c701468921183d134ffa0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\mepan\.gradle\caches\transforms-2\files-2.1\7871527aaed91cfd7cb024a9da46a319\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\mepan\.gradle\caches\transforms-2\files-2.1\7871527aaed91cfd7cb024a9da46a319\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\mepan\.gradle\caches\transforms-2\files-2.1\8c62ce189aea3f009cb8ee7b83fefa84\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\mepan\.gradle\caches\transforms-2\files-2.1\8c62ce189aea3f009cb8ee7b83fefa84\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.3.1] C:\Users\mepan\.gradle\caches\transforms-2\files-2.1\e700237f880e4b687d17f4214f63d50b\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.3.1] C:\Users\mepan\.gradle\caches\transforms-2\files-2.1\e700237f880e4b687d17f4214f63d50b\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\mepan\.gradle\caches\transforms-2\files-2.1\7aee160e56b5870345b8ab18d2629202\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\mepan\.gradle\caches\transforms-2\files-2.1\7aee160e56b5870345b8ab18d2629202\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\mepan\.gradle\caches\transforms-2\files-2.1\24bb41dcb6a7eb88ce29707693bec680\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\mepan\.gradle\caches\transforms-2\files-2.1\24bb41dcb6a7eb88ce29707693bec680\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\mepan\.gradle\caches\transforms-2\files-2.1\0ebad56f3ef94e89cd5d8602cbf9141a\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\mepan\.gradle\caches\transforms-2\files-2.1\0ebad56f3ef94e89cd5d8602cbf9141a\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\mepan\.gradle\caches\transforms-2\files-2.1\d76c02c01004fe9d41a7ef196a786064\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\mepan\.gradle\caches\transforms-2\files-2.1\d76c02c01004fe9d41a7ef196a786064\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\mepan\.gradle\caches\transforms-2\files-2.1\732959d0dfe40127ca409d8f21e1956b\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\mepan\.gradle\caches\transforms-2\files-2.1\732959d0dfe40127ca409d8f21e1956b\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\mepan\.gradle\caches\transforms-2\files-2.1\7876bb0917a42f32b2c8b4d27555408d\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\mepan\.gradle\caches\transforms-2\files-2.1\7876bb0917a42f32b2c8b4d27555408d\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\mepan\.gradle\caches\transforms-2\files-2.1\66faaa4e544564a16c690d0a3815d5bc\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\mepan\.gradle\caches\transforms-2\files-2.1\66faaa4e544564a16c690d0a3815d5bc\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\mepan\.gradle\caches\transforms-2\files-2.1\d7dd31dac79db4f8efe6c69f2943191c\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\mepan\.gradle\caches\transforms-2\files-2.1\d7dd31dac79db4f8efe6c69f2943191c\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\mepan\.gradle\caches\transforms-2\files-2.1\4b8c5f18a3990b460677c76549136a91\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\mepan\.gradle\caches\transforms-2\files-2.1\4b8c5f18a3990b460677c76549136a91\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] C:\Users\mepan\.gradle\caches\transforms-2\files-2.1\3db000003fccdfe872ac82d5d26bd4e4\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] C:\Users\mepan\.gradle\caches\transforms-2\files-2.1\3db000003fccdfe872ac82d5d26bd4e4\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\mepan\.gradle\caches\transforms-2\files-2.1\c6d41ed429e119f3d0bbe07280c379ff\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\mepan\.gradle\caches\transforms-2\files-2.1\c6d41ed429e119f3d0bbe07280c379ff\AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\mepan\.gradle\caches\transforms-2\files-2.1\cc311eb7e1430cca6fbc7ed21f18be8a\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\mepan\.gradle\caches\transforms-2\files-2.1\cc311eb7e1430cca6fbc7ed21f18be8a\AndroidManifest.xml:20:5-22:41
+INJECTED from C:\Projects\6Sygma\MobileApp\postcrow\app\src\main\AndroidManifest.xml
+INJECTED from C:\Projects\6Sygma\MobileApp\postcrow\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Projects\6Sygma\MobileApp\postcrow\app\src\main\AndroidManifest.xml
+		ADDED from C:\Projects\6Sygma\MobileApp\postcrow\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Projects\6Sygma\MobileApp\postcrow\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Projects\6Sygma\MobileApp\postcrow\app\src\main\AndroidManifest.xml
+		ADDED from C:\Projects\6Sygma\MobileApp\postcrow\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Projects\6Sygma\MobileApp\postcrow\app\src\main\AndroidManifest.xml
+activity#com.google.android.gms.auth.api.signin.internal.SignInHubActivity
+ADDED from [com.google.android.gms:play-services-auth:17.0.0] C:\Users\mepan\.gradle\caches\transforms-2\files-2.1\f123484d95bb3510edde73dcfd059d59\AndroidManifest.xml:23:9-27:75
+	android:excludeFromRecents
+		ADDED from [com.google.android.gms:play-services-auth:17.0.0] C:\Users\mepan\.gradle\caches\transforms-2\files-2.1\f123484d95bb3510edde73dcfd059d59\AndroidManifest.xml:25:13-46
+	android:exported
+		ADDED from [com.google.android.gms:play-services-auth:17.0.0] C:\Users\mepan\.gradle\caches\transforms-2\files-2.1\f123484d95bb3510edde73dcfd059d59\AndroidManifest.xml:26:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-auth:17.0.0] C:\Users\mepan\.gradle\caches\transforms-2\files-2.1\f123484d95bb3510edde73dcfd059d59\AndroidManifest.xml:27:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-auth:17.0.0] C:\Users\mepan\.gradle\caches\transforms-2\files-2.1\f123484d95bb3510edde73dcfd059d59\AndroidManifest.xml:24:13-93
+service#com.google.android.gms.auth.api.signin.RevocationBoundService
+ADDED from [com.google.android.gms:play-services-auth:17.0.0] C:\Users\mepan\.gradle\caches\transforms-2\files-2.1\f123484d95bb3510edde73dcfd059d59\AndroidManifest.xml:33:9-36:110
+	android:exported
+		ADDED from [com.google.android.gms:play-services-auth:17.0.0] C:\Users\mepan\.gradle\caches\transforms-2\files-2.1\f123484d95bb3510edde73dcfd059d59\AndroidManifest.xml:35:13-36
+	android:permission
+		ADDED from [com.google.android.gms:play-services-auth:17.0.0] C:\Users\mepan\.gradle\caches\transforms-2\files-2.1\f123484d95bb3510edde73dcfd059d59\AndroidManifest.xml:36:13-107
+	android:name
+		ADDED from [com.google.android.gms:play-services-auth:17.0.0] C:\Users\mepan\.gradle\caches\transforms-2\files-2.1\f123484d95bb3510edde73dcfd059d59\AndroidManifest.xml:34:13-89
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\mepan\.gradle\caches\transforms-2\files-2.1\0fea544ad50a6632bb9413d1b52f1a2d\AndroidManifest.xml:23:9-26:75
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\mepan\.gradle\caches\transforms-2\files-2.1\0fea544ad50a6632bb9413d1b52f1a2d\AndroidManifest.xml:25:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\mepan\.gradle\caches\transforms-2\files-2.1\0fea544ad50a6632bb9413d1b52f1a2d\AndroidManifest.xml:26:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\mepan\.gradle\caches\transforms-2\files-2.1\0fea544ad50a6632bb9413d1b52f1a2d\AndroidManifest.xml:24:13-79

@@ -1,0 +1,102 @@
+<androidx.swiperefreshlayout.widget.SwipeRefreshLayout xmlns:tools="http://schemas.android.com/tools"
+	android:id="@+id/pullfresh"
+	android:layout_width="match_parent"
+	android:layout_height="wrap_content"
+	xmlns:android="http://schemas.android.com/apk/res/android">
+<RelativeLayout
+	android:layout_width="match_parent"
+    android:layout_height="match_parent"
+	android:paddingLeft="0dip"
+    android:paddingRight="0dip"
+    android:paddingTop="0dip"
+    android:paddingBottom="0dip"
+	tools:context="MainActivity"
+    android:background="@drawable/bol_drawable">
+    <RelativeLayout
+        android:id="@+id/msw_welcome"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:visibility="visible"
+        android:gravity="center_vertical|center_horizontal|center"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        tools:ignore="RtlHardcoded">
+        <!--<ImageView
+            android:id="@+id/msw_logo"
+			android:layout_height="350sp"
+			android:layout_width="350sp"
+            android:src="@raw/splash"
+            android:gravity="center_vertical|center_horizontal|center"
+            android:contentDescription="@string/image_view"
+            android:layout_gravity="top"
+            android:layout_centerVertical="true"
+            android:layout_centerHorizontal="true" />
+		-->
+		<ImageView
+			android:id="@+id/msw_logo"
+			android:src="@raw/logo"
+			tools:ignore="ContentDescription"
+			android:layout_height="350sp"
+			android:layout_width="350sp"
+			android:layout_marginTop="0dp"
+			android:layout_centerVertical="true"
+			android:layout_centerHorizontal="true"
+			android:gravity="center_vertical|center_horizontal|center"
+			android:contentDescription="@string/image_view"
+			android:layout_gravity="top"/>
+
+
+
+        <!--<TextView
+            android:id="@+id/msw_loading_text"
+            android:layout_height="wrap_content"
+            android:gravity="center_vertical|center_horizontal|center"
+            android:layout_width="match_parent"
+            tools:ignore="NotSibling"
+            android:textSize="0dp"
+            android:textStyle="normal|bold"
+            android:textColor="@color/white"
+            android:layout_marginTop="0dp"
+			android:fontFamily="serif-monospace"
+            android:layout_below="@+id/madeinindain"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentStart="true"
+			android:text=""/>-->
+
+		<ProgressBar
+			android:id="@+id/msw_progress"
+			android:layout_width="150dp"
+			android:layout_height="150dp"
+			android:indeterminate="false"
+			android:gravity="center_vertical|center_horizontal|center"
+			android:progressDrawable="@drawable/circular_progress_bar"
+			android:background="@drawable/circle_shape"
+			style="?android:attr/progressBarStyleHorizontal"
+			android:layout_below="@+id/msw_logo"
+			android:max="100"
+			android:progress="5"
+			android:layout_centerVertical="true"
+			android:layout_centerHorizontal="true"
+			android:contentDescription="@string/image_view"
+			android:layout_gravity="top" />
+
+    </RelativeLayout>
+
+	<WebView
+        android:id="@+id/msw_view"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:visibility="gone" />
+    <!--<ProgressBar
+        android:id="@+id/msw_progress"
+        style="@android:style/Widget.ProgressBar.Horizontal"
+        android:layout_width="fill_parent"
+        android:layout_height="3dip"
+        android:progressDrawable="@drawable/progress_style"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentStart="true"
+        android:visibility="visible" />
+	-->
+</RelativeLayout>
+</androidx.swiperefreshlayout.widget.SwipeRefreshLayout>
